@@ -1,0 +1,7 @@
+projectKey=org.sonarqube:sonarqube-scanner
+serverUrl=https://austins.ngrok.dev
+serverVersion=9.9.1.69595
+branch=feature2
+dashboardUrl=https://austins.ngrok.dev/dashboard?id=org.sonarqube%3Asonarqube-scanner&branch=feature2
+ceTaskId=AYojdHVjAofYdqpefWeY
+ceTaskUrl=https://austins.ngrok.dev/api/ce/task?id=AYojdHVjAofYdqpefWeY

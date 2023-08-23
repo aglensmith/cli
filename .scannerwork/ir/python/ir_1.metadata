@@ -1,0 +1,8 @@
+samples.fortune.get
+random.randint
+open
+==
+read
+unpack
+seek
+close
