@@ -4,6 +4,7 @@ var Person = function(first, last, middle) {
     this.last = last;
 };
 
+var dog;
 Person.prototype = {
 
     whoAreYou : function() {
