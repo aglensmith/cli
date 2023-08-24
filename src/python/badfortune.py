@@ -84,6 +84,12 @@ def get(filename):
         L=L[:-1]
     return string.join(L, '\n')
 
+def pull_request_decoration_test():
+    print 'pr decoration test'
+
+def pull_request_decoration_test2():
+    print 'pr decoration test'
+
 if __name__ == '__main__':
     import sys
     if len(sys.argv) == 1:
